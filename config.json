@@ -1,0 +1,13 @@
+{
+    "bans": [],
+    "host": "10.0.0.200",
+    "limit": {
+        "message": 250,
+        "username": 16
+    },
+    "locked": false,
+    "name": "DmmD's Server",
+    "password": null,
+    "port": 2075,
+    "size": 10
+}
